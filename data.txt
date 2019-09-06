@@ -1,0 +1,12 @@
+[{"h_structure": [16, 16], "n_epochs": 10, "batch_size": 32, "learning_rate": 0.1, "accuracy": 0.34377174669450244},
+{"h_structure": [32, 32], "n_epochs": 10, "batch_size": 32, "learning_rate": 0.1, "accuracy": 0.7070285316631872},
+{"h_structure": [24, 24], "n_epochs": 10, "batch_size": 32, "learning_rate": 0.1, "accuracy": 0.616562282533055},
+{"h_structure": [10, 10], "n_epochs": 10, "batch_size": 32, "learning_rate": 0.1, "accuracy": 0.4112734864300626},
+{"h_structure": [48, 48], "n_epochs": 10, "batch_size": 32, "learning_rate": 0.1, "accuracy": 0.697981906750174},
+{"h_structure": [40, 40], "n_epochs": 10, "batch_size": 32, "learning_rate": 0.1, "accuracy": 0.7139874739039666},
+{"h_structure": [64, 64], "n_epochs": 10, "batch_size": 32, "learning_rate": 0.1, "accuracy": 0.6931106471816284},
+{"h_structure": [32, 32], "n_epochs": 5, "batch_size": 32, "learning_rate": 0.1, "accuracy": 0.6833681280445373},
+{"h_structure": [32, 32], "n_epochs": 2, "batch_size": 32, "learning_rate": 0.1, "accuracy": 0.6576200417536534},
+{"h_structure": [32, 32], "n_epochs": 8, "batch_size": 32, "learning_rate": 0.1, "accuracy": 0.6228253305497564},
+{"h_structure": [32, 32], "n_epochs": 1, "batch_size": 32, "learning_rate": 0.1, "accuracy": 0.7292971468336813},
+{"h_structure": [32, 32], "n_epochs": 12, "batch_size": 32, "learning_rate": 0.1, "accuracy": 0.6708420320111343}]
